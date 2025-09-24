@@ -90,13 +90,13 @@
   "navbar": {
     "links": [
       {
-        "label": "Signin",
+        "label": "Login",
         "href": "https://lyrn.link/signin"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Signup",
+      "label": "Sign Up",
       "href": "https://lyrn.link/signup"
     }
   },
